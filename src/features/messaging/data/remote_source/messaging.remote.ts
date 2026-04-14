@@ -12,8 +12,7 @@ async function getChats(sessionID: string): Promise<ApiResult<ChatMessageInfo[]>
 
   if (result.success) {
     const chats = result.data.chats.filter((chat) => chat.lastMessage !== undefined || null);
-    const test = [chats[0], chats[1], chats[2], chats[4]];
-    return { success: true, data: test };
+    return { success: true, data: chats };
   }
 
   return { success: false, error: result.error };
