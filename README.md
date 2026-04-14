@@ -6,9 +6,9 @@ Dashboard berbasis web untuk memantau dan mengelola sesi WhatsApp Web melalui RE
 
 ## 🖼️ Preview
 
-![Preview-1](https://github.com/irxyad/project-assets/blob/274895fc5db2824ad5dadddf4cf13daf495f7fc9/assets/monitoring-whatsapp/preview-1.jpg)
+![Preview-1](https://raw.githubusercontent.com/irxyad/project-assets/274895fc5db2824ad5dadddf4cf13daf495f7fc9/assets/monitoring-whatsapp/preview-1.jpg)
 
-![Preview-2](https://github.com/irxyad/project-assets/blob/274895fc5db2824ad5dadddf4cf13daf495f7fc9/assets/monitoring-whatsapp/preview-2.jpg)
+![Preview-2](https://raw.githubusercontent.com/irxyad/project-assets/274895fc5db2824ad5dadddf4cf13daf495f7fc9/assets/monitoring-whatsapp/preview-2.jpg)
 
 ## 📌 Tentang Proyek
 
