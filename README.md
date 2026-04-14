@@ -4,6 +4,8 @@ Dashboard berbasis web untuk memantau dan mengelola sesi WhatsApp Web melalui RE
 
 **Source:** https://github.com/avoylenko/wwebjs-api
 
+> ⚠️ **Catatan:** Belum responsive (malas ngurusin hehehe).
+
 ## 🖼️ Preview
 
 ![Preview-1](https://raw.githubusercontent.com/irxyad/project-assets/274895fc5db2824ad5dadddf4cf13daf495f7fc9/assets/monitoring-whatsapp/preview-1.jpg)
