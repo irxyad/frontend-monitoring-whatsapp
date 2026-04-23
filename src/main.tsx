@@ -8,9 +8,11 @@ import App from './App.tsx';
 import { TooltipProvider } from './components/ui/shadcn/tooltip';
 import './index.css';
 
+import { flavorConfig } from './components/config/flavor';
 import { queryClient } from './lib/query.client';
 
 document.documentElement.classList.add('dark');
+document.title = flavorConfig.appName;
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
